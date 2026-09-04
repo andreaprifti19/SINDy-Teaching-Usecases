@@ -30,8 +30,8 @@ installation required.
 **Locally:**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sindy-teaching-usecases.git
-cd sindy-teaching-usecases
+git clone https://github.com/andreaprifti19/SINDy-Teaching-Usecases.git
+cd SINDy-Teaching-Usecases
 pip install -r requirements.txt
 jupyter lab
 ```
