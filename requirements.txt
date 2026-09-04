@@ -1,0 +1,6 @@
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+scikit-learn==1.5.2
+pysindy==1.7.5
+jupyterlab==4.2.5
