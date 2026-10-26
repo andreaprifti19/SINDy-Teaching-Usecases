@@ -19,8 +19,8 @@ visualisation, and a short exercise.
 
 | Notebook | System | Focus | Run |
 |---|---|---|---|
-| `01_damped_oscillator.ipynb` | Damped harmonic oscillator | The full discovery workflow on a simple linear system | [![Open In Colab](https://colab.research.google.com/github/andreaprifti19/SINDy-Teaching-Usecases/blob/main/notebooks/01_damped_oscillator.ipynb) |
-| `02_lorenz_system.ipynb` | Lorenz system | Discovery on a nonlinear, chaotic system | [![Open In Colab](https://colab.research.google.com/github/andreaprifti19/SINDy-Teaching-Usecases/blob/main/notebooks/02_lorenz_system.ipynb) |
+| `01_damped_oscillator.ipynb` | Damped harmonic oscillator | The full discovery workflow on a simple linear system | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreaprifti19/SINDy-Teaching-Usecases/blob/main/notebooks/01_damped_oscillator.ipynb) |
+| `02_lorenz_system.ipynb` | Lorenz system | Discovery on a nonlinear, chaotic system | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreaprifti19/SINDy-Teaching-Usecases/blob/main/notebooks/02_lorenz_system.ipynb) |
 
 ## Running the notebooks
 
